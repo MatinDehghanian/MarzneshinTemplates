@@ -55,7 +55,8 @@ marzneshin restart
 [مشاهده قالب 1](#) >>
 
 ### قالب 2
-![تصویر قالب 2](path/to/image2.jpg)
+![template2-pic](https://github.com/user-attachments/assets/0a38ff19-6e46-41a6-8250-a8218d6479da)
+
 | ویژگی 1 | ویژگی 2 | ویژگی 3 | ویژگی 4 | ویژگی 5 |
 |----------|----------|----------|----------|----------|
 | ❌    | ❌    | ✔️   | ✔️   | 🛠️    |
@@ -63,7 +64,8 @@ marzneshin restart
 [مشاهده قالب 2](#) >>
 
 ### قالب 3
-![تصویر قالب 3](path/to/image3.jpg)
+![template3-pic](https://github.com/user-attachments/assets/28323b58-9d1a-4bbf-9ed1-ad81c2d7a35f)
+
 | ویژگی 1 | ویژگی 2 | ویژگی 3 | ویژگی 4 | ویژگی 5 |
 |----------|----------|----------|----------|----------|
 | ❌    | ❌    | ✔️   | ✔️   | 🛠️    |
@@ -71,14 +73,19 @@ marzneshin restart
 [دانلود قالب 3](#) >>
 
 ### قالب 4
-![تصویر قالب 4](path/to/image4.jpg)
+## Desktop
+<img src="https://raw.githubusercontent.com/MatinDehghanian/MarzViteTemplate/assets/images/desktop.png" title="Marzneshin-Sub-Desktop"/>
+
+## Responsive Mobile
+<img src="https://raw.githubusercontent.com/MatinDehghanian/MarzViteTemplate/assets/images/web-Mobile.JPEG" title="Marzneshin-Sub-Mobile"/>
 | ویژگی 1 | ویژگی 2 | ویژگی 3 | ویژگی 4 | ویژگی 5 |
 |----------|----------|----------|----------|----------|
 | ❌    | ❌    | ✔️   | ✔️   | 🛠️    |
 [دانلود قالب 4](#) >>
 
 ### قالب 5
-![تصویر قالب 5](path/to/image5.jpg)
+![template5-pic](https://github.com/user-attachments/assets/cf0bfc84-73e0-4266-9924-7bfc9328f19f)
+
 | ویژگی 1 | ویژگی 2 | ویژگی 3 | ویژگی 4 | ویژگی 5 |
 |----------|----------|----------|----------|----------|
 | ❌    | ❌    | ✔️   | ✔️   | 🛠️    |
@@ -86,7 +93,8 @@ marzneshin restart
 [دانلود قالب 5](#)
 
 ### قالب 6
-![تصویر قالب 6](path/to/image6.jpg)
+![template6-pic](https://github.com/user-attachments/assets/00c207b8-1044-4142-aec6-9f62f1ed706a)
+
 | ویژگی 1 | ویژگی 2 | ویژگی 3 | ویژگی 4 | ویژگی 5 |
 |----------|----------|----------|----------|----------|
 | ❌    | ❌    | ✔️   | ✔️   | 🛠️    |
