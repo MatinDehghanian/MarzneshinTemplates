@@ -48,7 +48,9 @@ marzneshin restart
 # 🖼 قالب‌ها
 
 ## قالب 1
+
 <img src="https://raw.githubusercontent.com/MatinDehghanian/marzneshin-sub/main/PreviewTemplate.png" alt="تصویر قالب 1" width="800"/>
+
 
 | نمایش اطلاعات کاربر | نمایش مصرف کاربر و زمان اتمام | لیست اپلیکیشن ها | لیست کانفیگ ها | ریسپانسیو |
 |----------|----------|----------|----------|----------|
@@ -67,7 +69,8 @@ marzneshin restart
 
 [مشاهده قالب 2 »](https://github.com/matinDehghanian/marzneshintemplate2)
 
-### قالب 3
+## قالب 3
+
 <img src="https://github.com/user-attachments/assets/28323b58-9d1a-4bbf-9ed1-ad81c2d7a35f" alt="تصویر قالب 3" width="800"/>
 
 
@@ -77,7 +80,7 @@ marzneshin restart
 
 [دانلود قالب 3 »](https://github.com/matinDehghanian/marzneshintemplate3) >>
 
-### قالب 4
+## قالب 4
 ## Desktop
 <img src="https://raw.githubusercontent.com/MatinDehghanian/MarzViteTemplate/assets/images/desktop.png" alt="تصویر دسکتاپ قالب 4" title="Marzneshin-Sub-Desktop" width="800"/>
 ## Responsive Mobile
