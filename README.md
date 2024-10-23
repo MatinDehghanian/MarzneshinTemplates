@@ -46,7 +46,8 @@ marzneshin restart
 
 ## 🖼 قالب‌ها
 ### قالب 1
-![تصویر قالب 1](https://raw.githubusercontent.com/MatinDehghanian/marzneshin-sub/main/PreviewTemplate.png)
+<img src="https://raw.githubusercontent.com/MatinDehghanian/marzneshin-sub/main/PreviewTemplate.png" alt="تصویر قالب 1" width="400"/>
+
 | ویژگی 1 | ویژگی 2 | ویژگی 3 | ویژگی 4 | ویژگی 5 |
 |----------|----------|----------|----------|----------|
 | ❌    | ❌    | ✔️   | ✔️   | 🛠️    |
